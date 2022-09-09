@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable-v24/input.xml" value="0.1665" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable/button_border.xml" value="0.1665" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable/chat_incoming_background.xml" value="0.1665" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.1565" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1665" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable/ic_camera.xml" value="0.1665" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable/ic_send.xml" value="0.1665" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable/image_border.xml" value="0.169" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable/input.xml" value="0.1665" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/drawable/toolbar_background.xml" value="0.1665" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/activity_converstions_list.xml" value="0.19010416666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/activity_faq.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/activity_hairstyle_details.xml" value="0.12273550724637682" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/activity_main_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/activity_messages.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/activity_product_testing_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/add_new_faqs_custom_layout.xml" value="0.12092391304347826" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/add_new_item_custom_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/add_new_style_custom_layout.xml" value="0.12273550724637682" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/custom_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/faq_custom_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/fragment_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/fragment_second.xml" value="0.12273550724637682" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/fragment_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/item_chat_incoming.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/item_chat_outgoing.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/layout/item_dialog_list_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Bridgetlinx/TressMeAdminApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

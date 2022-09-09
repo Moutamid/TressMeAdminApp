@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "9029000811",
+    "firebase_url": "https://treesme-17a96-default-rtdb.firebaseio.com",
+    "project_id": "treesme-17a96",
+    "storage_bucket": "treesme-17a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9029000811:android:0d2aaaa0419397c908db2e",
+        "android_client_info": {
+          "package_name": "com.example.treesme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9029000811-v6sqtq0pefb47hph01slveeutsdr9gqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.treesme",
+            "certificate_hash": "309bc07aea5fffbbbf69c8b8435d380078ec8eba"
+          }
+        },
+        {
+          "client_id": "9029000811-h4moov1g4dd72s61gtcb7np4k57ipd6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qECcke2cxPECPhT8SJKmM5n4PZAS4hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9029000811-h4moov1g4dd72s61gtcb7np4k57ipd6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9029000811:android:537b9547fa77415e08db2e",
+        "android_client_info": {
+          "package_name": "com.example.tressmeadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9029000811-h4moov1g4dd72s61gtcb7np4k57ipd6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qECcke2cxPECPhT8SJKmM5n4PZAS4hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9029000811-h4moov1g4dd72s61gtcb7np4k57ipd6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

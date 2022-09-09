@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:map="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layout_first_incoming"
+    android:layout_marginLeft="8dp"
+    android:layout_marginTop="8dp">
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@+id/layout_first"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:id="@+id/layout_chat_incoming"
+        app:layout_constraintBottom_toBottomOf="parent"
+        map:ignore="UnknownId">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="20dp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profile"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_below="@+id/linear"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center|right|end"
+                android:layout_marginTop="-20dp"
+                android:textColor="@android:color/black" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="@drawable/chat_incoming_background"
+                android:padding="8dp"
+                android:id="@+id/linear"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/profile"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="6dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tv_chat_incoming"
+                    android:textSize="14sp"
+                    android:maxWidth="200dp"
+                    android:minWidth="120dp"
+                    android:layout_weight="1"
+                    android:gravity="start"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginLeft="3dp"
+                    android:text="xghdhdgdgdhgddfgdfgvbbvxfgfdfgdfgdfdfgdfgdfgdfdgdfdfgdgfdfg"
+                    android:visibility="gone"
+                    android:textColor="@android:color/black" />
+                <ImageView
+                    android:id="@+id/tv_img_incoming"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:visibility="gone"
+                    android:maxWidth="100dp"
+                    android:minWidth="120dp"
+                    android:adjustViewBounds="true" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
