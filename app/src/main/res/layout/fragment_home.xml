@@ -46,6 +46,15 @@
                     android:layout_height="0dp"
                     android:layout_weight="1"/>
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Manage"
+                    android:layout_marginRight="10dp"
+                    android:id="@+id/manage"
+                    android:textColor="@color/purple_700"
+                    android:textSize="14sp" />
+
             </LinearLayout>
 
 

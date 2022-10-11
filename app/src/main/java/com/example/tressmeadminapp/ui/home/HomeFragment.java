@@ -30,6 +30,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.tressmeadminapp.Adapters.HairStylesListAdaper;
 import com.example.tressmeadminapp.Adapters.ProductTestingListAdaper;
 import com.example.tressmeadminapp.Adapters.SkincareTipListAdaper;
+import com.example.tressmeadminapp.ManageSponsored;
 import com.example.tressmeadminapp.Model.Hairstyles;
 import com.example.tressmeadminapp.Model.ProductModel;
 import com.example.tressmeadminapp.Model.User;
@@ -99,6 +100,12 @@ public class HomeFragment extends Fragment {
         mAuth = FirebaseAuth.getInstance();
         username.setText("Admin");
         dialog = new ProgressDialog(getActivity());
+        binding.manage.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(getActivity(), ManageSponsored.class));
+            }
+        });
         checkPermission();
         getHairStyles();
         getSkincareTips();
