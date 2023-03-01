@@ -8,49 +8,20 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:9029000811:android:0d2aaaa0419397c908db2e",
-        "android_client_info": {
-          "package_name": "com.example.treesme"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "9029000811-v6sqtq0pefb47hph01slveeutsdr9gqp.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.treesme",
-            "certificate_hash": "309bc07aea5fffbbbf69c8b8435d380078ec8eba"
-          }
-        },
-        {
-          "client_id": "9029000811-h4moov1g4dd72s61gtcb7np4k57ipd6h.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyB6qECcke2cxPECPhT8SJKmM5n4PZAS4hU"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "9029000811-h4moov1g4dd72s61gtcb7np4k57ipd6h.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:9029000811:android:537b9547fa77415e08db2e",
         "android_client_info": {
           "package_name": "com.example.tressmeadminapp"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "9029000811-625ftir9upnrnnl2sg4krksr04m4ee2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tressmeadminapp",
+            "certificate_hash": "3e01b2fe667dcec477574358b764ea6ad0ea714c"
+          }
+        },
         {
           "client_id": "9029000811-h4moov1g4dd72s61gtcb7np4k57ipd6h.apps.googleusercontent.com",
           "client_type": 3
